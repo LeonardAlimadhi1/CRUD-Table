@@ -1,0 +1,30 @@
+.label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 8px;
+  font-size: 12px;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 14.06px;
+}
+
+.input {
+  outline: none;
+  background-color: white;
+  font: "Roboto";
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 12px;
+  font-family: inherit;
+  min-width: 200px;
+  line-height: 14.06px;
+  font-weight: 400;
+}
+
+.input.Invalid {
+  border: 1px solid red;
+}
