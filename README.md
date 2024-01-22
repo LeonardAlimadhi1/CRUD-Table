@@ -1,6 +1,8 @@
 # CRUD Table
 
-A small side project showcasing frontend skills. 
+A small side project showcasing frontend skills in ReactJs, API workflow, Code Efficency and CSS.
+
+Used https://jsonplaceholder.typicode.com/ for simulating funcinality. 
 
 ## Available Scripts
 
