@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# CRUD Table
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A small side project showcasing frontend skills. 
 
 ## Available Scripts
 
