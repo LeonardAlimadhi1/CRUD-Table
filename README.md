@@ -4,6 +4,8 @@ A small side project showcasing frontend skills in ReactJs, API workflow, Code E
 
 Used https://jsonplaceholder.typicode.com/ for simulating funcinality. 
 
+Please read the CRUD Table Documentation for more information.
+
 ## Available Scripts
 
 In the project directory, you can run:
