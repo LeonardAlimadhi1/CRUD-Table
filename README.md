@@ -1,6 +1,6 @@
 ## CRUD Table
 
-This gym website project is a personal endeavor aimed at showcasing proficiency in React and web development skills. Built as a demonstration of individual capabilities rather than for a specific real-world objective, the website serves as a portfolio piece to exhibit expertise in frontend technologies.
+This project is a personal endeavor aimed at showcasing proficiency in React and web development skills. Built as a demonstration of individual capabilities rather than for a specific real-world objective, the website serves as a portfolio piece to exhibit expertise in frontend technologies.
 
 
 
