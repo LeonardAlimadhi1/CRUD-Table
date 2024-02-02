@@ -1,4 +1,4 @@
-import React, {useCallback, useEffect, useState} from "react";
+import React, { useEffect, useState } from "react";
 import { useUpdateUser } from "../../api/api";
 import PopupContainer from "../../Containers/popupContainer/popupContainer";
 

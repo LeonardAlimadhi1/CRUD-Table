@@ -1,10 +1,9 @@
-import React, { useEffect, useState, useCallback } from "react";
+import React from "react";
 import PopupContainer from "../../Containers/popupContainer/popupContainer";
 import { useCreateUser } from "../../api/api";
 
 const AddPopup = ({ isVisible, onHide }) => {
   const createAction = useCreateUser();
-
 
   const handleSubmit = (payload) => {
     onHide();
