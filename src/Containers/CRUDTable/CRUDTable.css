@@ -38,7 +38,7 @@
   .headerContainer .tableCell:first-child {
     display: flex;
     flex: none;
-    justify-content: start;
+    justify-content: flex-start;
     padding-right: 10px;
   }
   .tableRow {
@@ -108,6 +108,6 @@
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: end;
+  justify-content: flex-end;
   gap: 20px;
 }
