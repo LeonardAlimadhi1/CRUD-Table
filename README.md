@@ -50,9 +50,9 @@ Install dependencies: "npm install".
 
 Start the development server: "npm start".
 
-Open your browser and navigate to [http://localhost:3000] to view the application.
+Open your browser and navigate to [http://localhost:5173] to view the application.
 
-You can find a live preview of the webpage online here : [].
+You can find a live preview of the webpage online here : [https://crud-table-lalimadhi.netlify.app/].
 
 
 
